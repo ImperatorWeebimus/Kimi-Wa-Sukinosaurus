@@ -13,6 +13,22 @@
         "Hachimitsu Scans": "/proxy/api/mangadex/chapter/ecbef14c-603b-4f21-8006-c28f03836ad8"
       }
     },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1702588001",
+      "groups": {
+        "Hachimitsu Scans": "https://mangadex.org/chapter/404b5842-aedf-45d6-b3d2-19ac53e935a5/1"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "2",
+      "last_updated": "1702588038",
+      "groups": {
+        "Hachimitsu Scans": "/proxy/api/mangadex/chapter/5f189243-76ef-4a61-be54-96e41c918c72"
+      }
+    },
     "4": {
       "title": "4",
       "volume": "1",
