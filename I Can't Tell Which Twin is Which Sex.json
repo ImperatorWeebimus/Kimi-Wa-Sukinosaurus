@@ -5,6 +5,14 @@
   "author": "Abe Hanajiro",
   "cover": "https://mangadex.org/covers/89067419-a452-442b-877f-391f174e49c5/ed3b3c99-ec57-4424-9ee2-c68026f9c464.jpg",
   "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1702587948",
+      "groups": {
+        "Hachimitsu Scans": "/proxy/api/mangadex/chapter/ecbef14c-603b-4f21-8006-c28f03836ad8"
+      }
+    },
     "4": {
       "title": "4",
       "volume": "1",
