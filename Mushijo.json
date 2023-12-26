@@ -4,5 +4,14 @@
   "artist": "Aniki",
   "author": "Aniki",
   "cover": "https://mangadex.org/covers/daa23083-4799-4bcf-8687-41c7f909ed19/3b6e8bed-2812-41e0-aa54-de4e448b8711.jpg",
-  "chapters": {}
+  "chapters": {
+    "5": {
+      "title": "5",
+      "volume": "2",
+      "last_updated": "1703567922",
+      "groups": {
+        "Last Hope Machine Translations": "/proxy/api/imgur/chapter/WeApC4o"
+      }
+    }
+  }
 }
