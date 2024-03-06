@@ -21,6 +21,70 @@
         "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/d8cd7faa-2afd-4f34-927f-6da0246d0c6a"
       }
     },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1709765317",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/89dbdb37-e7e4-4f9e-a68a-b2ca04ea87fb"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1709765375",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/0bf30dad-3ff3-4f9e-9d49-d9a7e336e6d5"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1709765418",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/5ef957f1-978f-4fc7-8c46-b9f339ba13c0"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "last_updated": "1709765619",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/40e1a30b-0729-4f84-8a0a-11b2cf2f15d4"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "1",
+      "last_updated": "1709765647",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/44e065df-f805-4fdc-a94d-b21475a4672f"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "1",
+      "last_updated": "1709765675",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/2032d058-6825-4f17-8b4b-e873e111f194"
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "1",
+      "last_updated": "1709765697",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/c29c3b45-ef86-4f50-b586-6d005fc40e39"
+      }
+    },
+    "10": {
+      "title": "10",
+      "volume": "1",
+      "last_updated": "1709765727",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/3fd39be4-5de7-4f10-92ff-3a2ad9810d91"
+      }
+    },
     "28": {
       "title": "28",
       "volume": "3",
@@ -43,6 +107,14 @@
       "last_updated": "1709764000",
       "groups": {
         "Last Hope Machine Translations": "/proxy/api/imgchest/chapter/ne7bpw8zn45"
+      }
+    },
+    "10.5": {
+      "title": "10.5",
+      "volume": "1",
+      "last_updated": "1709765757",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/4608b3ba-c5e0-4f7b-934e-92e301a137ef"
       }
     }
   }
