@@ -85,6 +85,22 @@
         "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/3fd39be4-5de7-4f10-92ff-3a2ad9810d91"
       }
     },
+    "11": {
+      "title": "11",
+      "volume": "2",
+      "last_updated": "1709765870",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/79696f2f-25d5-4f15-80d9-373e57c2d8e9"
+      }
+    },
+    "12": {
+      "title": "12",
+      "volume": "2",
+      "last_updated": "1709765901",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/731da753-52cc-4f5b-a081-ef5871a4980c"
+      }
+    },
     "28": {
       "title": "28",
       "volume": "3",
