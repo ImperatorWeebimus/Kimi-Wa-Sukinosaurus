@@ -101,6 +101,70 @@
         "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/731da753-52cc-4f5b-a081-ef5871a4980c"
       }
     },
+    "13": {
+      "title": "13",
+      "volume": "2",
+      "last_updated": "1709765943",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/ba22855c-17b8-4f17-bdd8-b05be93d0271"
+      }
+    },
+    "14": {
+      "title": "14",
+      "volume": "2",
+      "last_updated": "1709765959",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/f563c652-b4a8-4f62-981f-223f29b2a7ae"
+      }
+    },
+    "15": {
+      "title": "15",
+      "volume": "2",
+      "last_updated": "1709765976",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/e96821b6-6f86-4fb0-bdaa-c2c9edb9ff9f"
+      }
+    },
+    "16": {
+      "title": "16",
+      "volume": "2",
+      "last_updated": "1709765991",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/ff238abe-84e3-41fa-8058-6b825869076b"
+      }
+    },
+    "17": {
+      "title": "17",
+      "volume": "2",
+      "last_updated": "1709766006",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/8ef97552-c165-45cf-85b2-cb425ba1ee17"
+      }
+    },
+    "18": {
+      "title": "18",
+      "volume": "2",
+      "last_updated": "1709766021",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/fb3ed5d5-4479-4e76-9fd3-6d0d97ef9326"
+      }
+    },
+    "19": {
+      "title": "19",
+      "volume": "2",
+      "last_updated": "1709766040",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/b26c9eb2-44fa-416b-b2ff-59dddfe92e80"
+      }
+    },
+    "20": {
+      "title": "20",
+      "volume": "2",
+      "last_updated": "1709766063",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/6ee968a3-0efd-4af6-b377-0eb3b6479ca9"
+      }
+    },
     "28": {
       "title": "28",
       "volume": "3",
@@ -131,6 +195,14 @@
       "last_updated": "1709765757",
       "groups": {
         "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/4608b3ba-c5e0-4f7b-934e-92e301a137ef"
+      }
+    },
+    "20.5": {
+      "title": "20.5",
+      "volume": "2",
+      "last_updated": "1709766083",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/5377b602-5c9c-4594-add9-48fabf85b13f"
       }
     }
   }
