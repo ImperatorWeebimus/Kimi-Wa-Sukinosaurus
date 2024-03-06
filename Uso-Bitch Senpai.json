@@ -5,6 +5,14 @@
   "author": "Otoi Rekomaru",
   "cover": "https://mangadex.org/covers/42603601-3659-430f-8306-ca703a884afe/29eff24e-c6ce-4cf8-9312-a0f43d2da24e.jpg",
   "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "3",
+      "last_updated": "1709764217",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/9270fb75-5e04-4f72-b569-53be315f76c0"
+      }
+    },
     "28": {
       "title": "28",
       "volume": "3",
