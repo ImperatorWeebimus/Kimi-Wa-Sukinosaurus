@@ -7,10 +7,18 @@
   "chapters": {
     "1": {
       "title": "1",
-      "volume": "3",
+      "volume": "1",
       "last_updated": "1709764217",
       "groups": {
         "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/9270fb75-5e04-4f72-b569-53be315f76c0"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1709765222",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/mangadex/chapter/d8cd7faa-2afd-4f34-927f-6da0246d0c6a"
       }
     },
     "28": {
