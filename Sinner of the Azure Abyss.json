@@ -4,5 +4,14 @@
   "artist": "Tomi Akihito",
   "author": "Tomi Akihito",
   "cover": "https://mangadex.org/covers/1409de42-374a-4ff5-8a2f-0a7041f48ed5/b9bc6718-7cfa-4e17-873a-717ac96b235f.jpg",
-  "chapters": {}
+  "chapters": {
+    "14": {
+      "title": "14",
+      "volume": "3",
+      "last_updated": "1709961495",
+      "groups": {
+        "Last Hope Machine Translations": "/proxy/api/imgchest/chapter/9249aakg27n"
+      }
+    }
+  }
 }
