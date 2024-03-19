@@ -5,6 +5,54 @@
   "author": "Tomi Akihito",
   "cover": "https://mangadex.org/covers/1409de42-374a-4ff5-8a2f-0a7041f48ed5/b9bc6718-7cfa-4e17-873a-717ac96b235f.jpg",
   "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1710811577",
+      "groups": {
+        "TSP": "/proxy/api/mangadex/chapter/c37a40a0-fc2d-4f2f-bf0e-a7ddb1bfbef3"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1710811603",
+      "groups": {
+        "TSP": "/proxy/api/mangadex/chapter/1d63c5bf-7831-4f48-9d65-19e05329b0a3"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1710811623",
+      "groups": {
+        "TSP": "/proxy/api/mangadex/chapter/1d63c5bf-7831-4f48-9d65-19e05329b0a3"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1710811653",
+      "groups": {
+        "TSP": "/proxy/api/mangadex/chapter/66c8baa7-9811-4fb9-b1ab-23b943840433"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1710811683",
+      "groups": {
+        "TSP": "/proxy/api/mangadex/chapter/05428d6a-ab07-4f58-a101-8b851bfbc908"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "2",
+      "last_updated": "1710811720",
+      "groups": {
+        "TSP": "/proxy/api/mangadex/chapter/90dd3b5e-d041-4f10-93ec-776e4b191f41"
+      }
+    },
     "14": {
       "title": "14",
       "volume": "3",
