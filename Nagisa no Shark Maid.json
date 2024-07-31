@@ -4,5 +4,86 @@
   "artist": "Teruya",
   "author": "Teruya",
   "cover": "https://mangadex.org/covers/2d0fba80-09ee-4213-9ba2-57e21c7e7370/fd0f35e0-9a32-41e1-9450-d46bb5378269.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1722460759",
+      "groups": {
+        "Zenn00": "/proxy/api/mangadex/chapter/7528d5b8-8b72-45cc-8dca-2d89e711bde0"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1722460805",
+      "groups": {
+        "EestriMo": "/proxy/api/mangadex/chapter/17da0c7a-32b2-4e91-b8b8-02c6a4855d3e"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1722461768",
+      "groups": {
+        "nyanpasu47": "/proxy/api/mangadex/chapter/d36f6702-6207-4c2b-973c-2b9b3b102f3a"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1722461780",
+      "groups": {
+        "nyanpasu47": "/proxy/api/mangadex/chapter/42cc890d-e371-4dd3-a6d6-0744576fed7f"
+      }
+    },
+    "3.1": {
+      "title": "3.1",
+      "volume": "1",
+      "last_updated": "1722461000",
+      "groups": {
+        "nyanpasu47": "/proxy/api/mangadex/chapter/d510fca6-e8a6-4646-afdf-2cef41318512"
+      }
+    },
+    "3.2": {
+      "title": "3.2",
+      "volume": "1",
+      "last_updated": "1722461706",
+      "groups": {
+        "nyanpasu47": "/proxy/api/mangadex/chapter/6001bf44-34a1-4332-918c-d28a55387c17"
+      }
+    },
+    "6.1": {
+      "title": "6.1",
+      "volume": "1",
+      "last_updated": "1722461798",
+      "groups": {
+        "nyanpasu47": "/proxy/api/mangadex/chapter/bdb6517b-de45-4707-b53c-b7ad9c05de33"
+      }
+    },
+    "6.2": {
+      "title": "6.2",
+      "volume": "1",
+      "last_updated": "1722461815",
+      "groups": {
+        "nyanpasu47": "/proxy/api/mangadex/chapter/f8ce711b-d68f-4a81-9e50-aaf7e6c916ca"
+      }
+    },
+    "7.1": {
+      "title": "7.1",
+      "volume": "2",
+      "last_updated": "1722461832",
+      "groups": {
+        "nyanpasu47": "/proxy/api/mangadex/chapter/371a16e4-be52-4b41-83f8-8c36b25b3412"
+      }
+    },
+    "7.2": {
+      "title": "7.2",
+      "volume": "2",
+      "last_updated": "1722461850",
+      "groups": {
+        "nyanpasu47": "/proxy/api/mangadex/chapter/ca16e235-3148-492a-9c04-6df561f8d8d3"
+      }
+    }
+  }
 }
