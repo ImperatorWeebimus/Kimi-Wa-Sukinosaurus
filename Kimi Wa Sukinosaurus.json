@@ -10,7 +10,7 @@
       "volume": "1",
       "last_updated": "1702585622",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/N7qwpRc"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/5xy2eezxnyl"
       }
     },
     "2": {
@@ -18,7 +18,7 @@
       "volume": "1",
       "last_updated": "1702585726",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/14Q97tz"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/9249aax5v7n"
       }
     },
     "3": {
@@ -26,7 +26,7 @@
       "volume": "1",
       "last_updated": "1702585755",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/KnWCSX8"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/n87wvvz234x"
       }
     },
     "4": {
@@ -34,7 +34,7 @@
       "volume": "1",
       "last_updated": "1702585768",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/E2RDKwo"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/wl7lkkzbp4x"
       }
     },
     "5": {
@@ -42,7 +42,7 @@
       "volume": "2",
       "last_updated": "1702585822",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/NITmdEV"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/wl7lkkzvp4x"
       }
     },
     "6": {
@@ -50,7 +50,7 @@
       "volume": "2",
       "last_updated": "1702585875",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/XnKKGpK"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/lqyevvjxq7d"
       }
     },
     "7": {
@@ -58,7 +58,7 @@
       "volume": "2",
       "last_updated": "1702585910",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/pKIGGfS"
+        "Last Hope MTL": "/proxy/api/imgur/chapter/o24aggx524l"
       }
     },
     "8": {
@@ -66,7 +66,7 @@
       "volume": "2",
       "last_updated": "1702585937",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/Zv7gCK6"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/na7krrxjby8"
       }
     },
     "9": {
@@ -74,7 +74,7 @@
       "volume": "2",
       "last_updated": "1702585965",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/6L93GsA"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/xny8zzpg5yb"
       }
     },
     "10": {
@@ -82,7 +82,7 @@
       "volume": "3",
       "last_updated": "1702586205",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/TZf86Yr"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/9p4n22gpm4n"
       }
     },
     "11": {
@@ -90,7 +90,7 @@
       "volume": "3",
       "last_updated": "1702597544",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/64B2hvM"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/6eyr22rpg7p"
       }
     },
     "12": {
@@ -98,7 +98,7 @@
       "volume": "3",
       "last_updated": "1702686892",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/T7HfCuZ"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/lqyevvj9q7d"
       }
     },
     "13": {
@@ -106,40 +106,7 @@
       "volume": "3",
       "last_updated": "1703028309",
       "groups": {
-        "Last Hope MTL": [
-          "https://i.imgur.com/ZIGWsT0.jpg",
-          "https://i.imgur.com/oocrPSE.jpg",
-          "https://i.imgur.com/6XhiHSB.jpg",
-          "https://i.imgur.com/gwlPaaO.jpg",
-          "https://i.imgur.com/AGbHzER.jpg",
-          "https://i.imgur.com/yd1ByHn.jpg",
-          "https://i.imgur.com/NpAnSru.jpg",
-          "https://i.imgur.com/peymado.jpg",
-          "https://i.imgur.com/dfcEJmi.jpg",
-          "https://i.imgur.com/8c7yJeC.jpg",
-          "https://i.imgur.com/zdIyMJN.jpg",
-          "https://i.imgur.com/I7oJl0n.jpg",
-          "https://i.imgur.com/Pf9C2di.jpg",
-          "https://i.imgur.com/b1wyLju.jpg",
-          "https://i.imgur.com/oDmO1rs.jpg",
-          "https://i.imgur.com/i4ZuWRw.jpg",
-          "https://i.imgur.com/TvoqN0D.jpg",
-          "https://i.imgur.com/3llGId9.jpg",
-          "https://i.imgur.com/37oWp0K.jpg",
-          "https://i.imgur.com/HXpTuad.jpg",
-          "https://i.imgur.com/qYiL8Ba.jpg",
-          "https://i.imgur.com/8OKqfgL.jpg",
-          "https://i.imgur.com/8kpFD6m.jpg",
-          "https://i.imgur.com/Y82ZNrB.jpg",
-          "https://i.imgur.com/Pdxdd9V.jpg",
-          "https://i.imgur.com/gTXkzsK.jpg",
-          "https://i.imgur.com/ZQOfZuj.jpg",
-          "https://i.imgur.com/7MwVgIj.jpg",
-          "https://i.imgur.com/FEIl97G.jpg",
-          "https://i.imgur.com/RuWxZo1.jpg",
-          "https://i.imgur.com/cdh2hUP.jpg",
-          "https://i.imgur.com/hoTlKcB.png"
-        ]
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/9p4n22g5m4n"
       }
     },
     "14": {
@@ -147,7 +114,7 @@
       "volume": "3",
       "last_updated": "1703115959",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/tfJ9a60"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/5xy2eezw9yl"
       }
     },
     "15": {
@@ -155,7 +122,7 @@
       "volume": "3",
       "last_updated": "1703198884",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/smrwyqB"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/ljyqqqgnny2"
       }
     },
     "16": {
@@ -163,7 +130,7 @@
       "volume": "3",
       "last_updated": "1703289750",
       "groups": {
-        "Last Hope MTL": "/proxy/api/imgur/chapter/ronvkS3"
+        "Last Hope MTL": "/proxy/api/imgchest/chapter/qb4z3396d7j"
       }
     }
   }
